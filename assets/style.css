@@ -135,6 +135,10 @@ h3, .sidebar, h2 {
 	line-height: 22px;
 }
 
+#connect {
+	text-align: center;
+}
+
 .social {
 	width: 59px;
 	height: 57px;
